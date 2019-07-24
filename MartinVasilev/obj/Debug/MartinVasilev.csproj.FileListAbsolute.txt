@@ -1,0 +1,72 @@
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\bin\Debug\MartinVasilev.exe.config
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\bin\Debug\MartinVasilev.exe
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\bin\Debug\MartinVasilev.pdb
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.Form1.resources
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.Properties.Resources.resources
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.exe
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.pdb
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.LogIn.resources
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.Smetka.resources
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.Artikli.resources
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.Smetki.resources
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.Kategorija.resources
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.Proizvoditeli.resources
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\bin\Debug\MartinVasilev.exe.manifest
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\bin\Debug\MartinVasilev.application
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.exe.manifest
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.application
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.Form2.resources
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\bin\Debug\Database2.sdf
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\PC\source\repos\MartinVasilev\MartinVasilev\obj\Debug\MartinVasilev.csproj.CopyComplete
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\bin\Debug\Database2.sdf
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\bin\Debug\MartinVasilev.exe.config
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\bin\Debug\MartinVasilev.exe.manifest
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\bin\Debug\MartinVasilev.application
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\bin\Debug\MartinVasilev.exe
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\bin\Debug\MartinVasilev.pdb
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Artikli.resources
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Form2.resources
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Kategorija.resources
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Proizvoditeli.resources
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Smetka.resources
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Smetki.resources
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Form1.resources
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.LogIn.resources
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Properties.Resources.resources
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.exe.manifest
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.application
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.csproj.CopyComplete
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.exe
+C:\Users\PC\Desktop\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.pdb
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\bin\Debug\Database2.sdf
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\bin\Debug\MartinVasilev.exe.config
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\bin\Debug\MartinVasilev.exe.manifest
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\bin\Debug\MartinVasilev.application
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\bin\Debug\MartinVasilev.exe
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\bin\Debug\MartinVasilev.pdb
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.csprojAssemblyReference.cache
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Artikli.resources
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Form2.resources
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Kategorija.resources
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Proizvoditeli.resources
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Smetka.resources
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Smetki.resources
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Form1.resources
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.LogIn.resources
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.Properties.Resources.resources
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.csproj.GenerateResource.cache
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.csproj.CoreCompileInputs.cache
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.exe.manifest
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.application
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.csproj.CopyComplete
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.exe
+C:\Users\PC\Google Drive\CV\MartinVasilev Work\MartinVasilev\obj\Debug\MartinVasilev.pdb
